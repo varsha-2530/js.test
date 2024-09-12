@@ -1,0 +1,10 @@
+//Q1. What are entry conrol loops and exit control loops?
+
+(ans)Entry controlled loop is a loop in which the test condition is checked first
+and then the loop body will be executed.
+If the test condition is false the loop body will not be executed
+For Loop and While Loop is the example of Entry controlled loop
+
+Exit Controlled Loop the loop body is executed first and then the given condition is checked in case
+If the test condition is false
+the loop body will be executed at least once. For example; Do While Loop.
